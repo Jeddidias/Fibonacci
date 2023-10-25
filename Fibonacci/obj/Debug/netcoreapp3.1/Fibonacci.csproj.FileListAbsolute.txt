@@ -1,0 +1,13 @@
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+E:\software\Visual Stuido\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+E:\software\Visual Stuido\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
